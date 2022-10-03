@@ -9,7 +9,7 @@ Development environment
 I chose the Unity game engine as the development environment and create 3d models in 3ds Max.
 The project is available for download on mobile devices (Android) and also directly in the browser!
 
-[play now](https://github.com)
+[play now](https://tndrm.github.io/helix_jumper/web/index.html)
 
 download apk
 
