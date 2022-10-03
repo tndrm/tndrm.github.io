@@ -15,7 +15,7 @@ download apk
 
 # Fire Box
 
-[play now](https://tndrm.github.io/helix_jumper/web/index.html)
+[play now](https://tndrm.github.io/fire_box/web/index.html)
 
 download apk
 
