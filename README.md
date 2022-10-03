@@ -13,3 +13,14 @@ The project is available for download on mobile devices (Android) and also direc
 
 download apk
 
+# Fire Box
+
+[play now](https://tndrm.github.io/helix_jumper/web/index.html)
+
+download apk
+
+# Tower Run
+
+[play now](https://tndrm.github.io/tower_run/web/index.html)
+
+download apk
