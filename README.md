@@ -1,3 +1,6 @@
+[play now](https://tndrm.github.io/CV%20Palina%20Maslava.pdf)
+
+
 ## Some of my games: )
 
 # Helix Jump
