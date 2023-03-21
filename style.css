@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(120deg, rgba(243, 245, 221, 1) 0%, rgba(205, 243, 252, 1) 95%);
+    background-attachment: fixed;
+    font-family: Raleway, sans-serif;
+    padding: 50px;
+}
+
+.main-content {
+    height: 100vh;
+}
+
+.main-button {
+    background: linear-gradient(to bottom, #fba480 5%, #e95a4d 100%);
+    border-radius: 2rem;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    padding: 10px 34px;
+    text-decoration: none;
+}
+
+.main-button:hover {
+    background: linear-gradient(to bottom, #e95a4d 5%, #fba480 100%);
+}
+
+.btn {
+    border-radius: 2rem;
+}
+
+#portfolio .btn-social {
+    color: #272826;
+    border: none;
+    background: none;
+}
+
+#portfolio .btn-social:hover {
+    color: #274b64;
+}
+
+#portfolio .btn-social:active {
+    color: #274b64;
+}
+
+.card-img div img{
+    width: 100%;
+}
+.card-img div:first-child img {
+    border-radius: .5rem 0 0 .5rem;
+}
+.card-img div:last-child img {
+    border-radius: 0 .5rem .5rem 0;
+}
+
+.card {
+    background: none;
+    border: none;
+}
