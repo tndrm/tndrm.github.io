@@ -24,7 +24,8 @@ body {
 }
 
 .main-button:hover {
-    background: linear-gradient(to bottom, #e95a4d 5%, #fba480 100%);
+    background: linear-gradient(to bottom, #fc9468 5%, #f85749 100%);
+    color: #ffffff;
 }
 
 .btn {
